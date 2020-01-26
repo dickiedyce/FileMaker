@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[JSONDeleteElement ( ${1:json} ; ${2:keyOrIndexOrPath} )$0]]></content>
+  <description>JSONDeleteElement</description>
+  <scope>source.filemaker</scope>
+  <tabTrigger>jde</tabTrigger>
+</snippet>

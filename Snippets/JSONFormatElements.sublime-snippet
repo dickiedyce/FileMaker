@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[JSONFormatElements ( ${1:json} )$0]]></content>
+  <description>JSONFormatElements</description>
+  <scope>source.filemaker</scope>
+  <tabTrigger>jfe</tabTrigger>
+</snippet>

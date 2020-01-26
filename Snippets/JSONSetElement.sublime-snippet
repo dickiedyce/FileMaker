@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[JSONSetElement (
+	${1:text} ;
+	[ ${2:searchString} ; ${3:replaceString} ; ${4:jsonType} ]
+)$0]]></content>
+  <description>JSONSetElement</description>
+  <scope>source.filemaker</scope>
+  <tabTrigger>jse</tabTrigger>
+</snippet>

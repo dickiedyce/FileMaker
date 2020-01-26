@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[SortValues ( ${1:values} ; \{ ${2:datatype} ; ${3:locale} \} )$0]]></content>
+  <description>SortValues</description>
+  <scope>source.filemaker</scope>
+  <tabTrigger>sv</tabTrigger>
+</snippet>

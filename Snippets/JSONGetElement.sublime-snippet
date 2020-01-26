@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[JSONGetElement ( ${1:json} ; ${2:keyOrIndexOrPath} )$0]]></content>
+  <description>JSONGetElement</description>
+  <scope>source.filemaker</scope>
+  <tabTrigger>jge</tabTrigger>
+</snippet>
